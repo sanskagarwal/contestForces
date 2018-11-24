@@ -3,8 +3,5 @@ https://codeforces.com/problemset/problem/1006/F
 https://codeforces.com/problemset/problem/888/E
 https://codeforces.com/problemset/problem/799/D
 https://codeforces.com/problemset/problem/552/C
-https://codeforces.com/problemset/problem/525/E
-https://codeforces.com/problemset/problem/515/B
-https://codeforces.com/problemset/problem/513/G1
 https://codeforces.com/problemset/problem/490/D
 https://codeforces.com/problemset/problem/285/D
